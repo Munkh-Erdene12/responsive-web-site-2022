@@ -284,7 +284,8 @@ about start
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    justify-content: center;
+    gap: 23px;
     .service-item {
       width: 32%;
       height: 288px;
